@@ -1,0 +1,16 @@
+{
+  "name": "testuserfacebook",
+  "version": "1.0.0",
+  "description": "Facebook test user and page vi API",
+  "main": "makeuser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Frazier",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "winston": "^3.3.3"
+  }
+}
